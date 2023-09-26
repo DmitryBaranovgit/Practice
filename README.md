@@ -1,4 +1,5 @@
-# Practice В GitHub PDF может не кореткно отображаться, Лучше смотреть в Gitlab
+# Practice 
+# В GitHub PDF может не кореткно отображаться, Лучше смотреть в Gitlab
 # **Инвариативные задания**
 * [Задание 1.1](https://github.com/DmitryBaranovgit/Practice/blob/main/%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94.%D0%90%2C%202%20%D0%BA%D1%83%D1%80%D1%81%2C%20%D0%98%D0%92%D0%A2%202.1%2C%20%D0%98%D0%A1%D0%A0%201.1%2C%20%D0%9A%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82.pdf)
 * [Задание 1.2](https://github.com/DmitryBaranovgit/Practice/blob/main/%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94.%D0%90%2C%202%20%D0%BA%D1%83%D1%80%D1%81%2C%20%D0%98%D0%92%D0%A2%202.1%2C%20%D0%98%D0%A1%D0%A0%201.2%2C%20%D0%94%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4.pdf)
